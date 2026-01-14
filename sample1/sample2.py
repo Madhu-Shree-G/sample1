@@ -1,5 +1,5 @@
 from typing import List
-#leetcode duplicate elements in array
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         hashset = set()
